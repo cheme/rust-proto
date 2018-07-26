@@ -1,0 +1,6 @@
+[package]
+name = "rust-proto"
+version = "0.1.0"
+authors = ["cheme <emericchevalier.pro@gmail.com>"]
+
+[dependencies]
